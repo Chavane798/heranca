@@ -12,5 +12,11 @@ public class Main {
         System.out.println("Raca: " + animal1.getRaca());
         animal1.falar();
 
+        System.out.println("Nome: " + animal2.getNome());
+        System.out.println("idade: " + animal2.getIdade());
+        System.out.println("peso: " + animal2.getPeso());
+        System.out.println("Raca: " + animal2.getRaca());
+        animal2.falar();
+
     }
 }
